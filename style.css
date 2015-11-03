@@ -1,0 +1,20 @@
+body {
+  background-image :url(http://images.123hdwallpapers.com/20150423/grey-linux-wallpaper-1920x1200.jpg);
+  color: lightgrey;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+div {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+p {
+  text-align: center;
+}
